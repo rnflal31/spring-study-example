@@ -12,7 +12,7 @@
 .classpath
 .project
 .gradle
-gradle
+/gradle/wrapper/**
 *.ipr
 *.iws
 *.iml
